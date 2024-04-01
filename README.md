@@ -1,6 +1,6 @@
 Todo Application - CRUD react application
 
-website url - https://celadon-elf-1340fe.netlify.app
+website url - https://todo-app-react-psi-nine.vercel.app/
 
 functionality
 (ADD TASK,

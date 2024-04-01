@@ -1,6 +1,6 @@
 Todo Application - CRUD react application
 
-website url - https://todo-app-react-psi-nine.vercel.app/
+website url - https://react-todo-app-coral-nine.vercel.app/
 
 functionality
 (ADD TASK,

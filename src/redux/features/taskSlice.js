@@ -1,7 +1,15 @@
 import { createSlice, nanoid } from "@reduxjs/toolkit";
 import { useEffect } from "react";
 
-const initialState = JSON.parse(localStorage.getItem("todo")) || [null];
+const initialState = JSON.parse(localStorage.getItem("todo")) || [
+  {
+    id: nanoid(),
+    body: {
+      title: "Title",
+      disc: "Description",
+    },
+  },
+];
 
 export const taskSlice = createSlice({
   name: "taskOperations",

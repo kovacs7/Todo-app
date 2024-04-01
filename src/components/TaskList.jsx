@@ -72,9 +72,9 @@ const TaskList = () => {
   return (
     <>
       <Container>
-        <strong className="font-monospace">
-          Total Task Left: {state.length}
-        </strong>
+        <div style={{marginTop: "25px"}}>
+          <strong>Total Task Left: {state.length}</strong>
+        </div>
         {cards}
       </Container>
     </>

@@ -1,6 +1,6 @@
-TODO APPLICATION - A REACT CRUD APPLICATION
+Todo Application - CRUD react application
 
-FUNCTIONALITY
+functionality
 (ADD TASK,
 VIEW TASK,
 DELETE TASK,
